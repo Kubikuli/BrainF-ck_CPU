@@ -3,6 +3,7 @@
 body: 18/23
 
 Commennt:
+
     login.b: 3b
     počet instrukcí: 85, tj. o 68 více než nejkompaktnější odevzdané řešení
 
